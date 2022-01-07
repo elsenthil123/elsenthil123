@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Senthil Kumar
+- 👀 I’m interested in PHP & Java & Android
+- 🌱 I’m currently learning PHP & Java & Android
